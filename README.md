@@ -4,6 +4,7 @@
 Site informativo sobre Cooperativismo para o concurso Agrinho 2026.
 
 #🌱 Tema
+
 O site aborda o cooperativismo no campo, mostrando sua importância para o desenvolvimento econômico e social da cidade de Cafelândia.
 
 # Conteúdo
