@@ -3,7 +3,7 @@
 # Agrocooperar ~ Cooperativismo
 Site informativo sobre Cooperativismo para o concurso Agrinho 2026.
 
-#🌱 Tema - Sobre o Projeto
+# 🌱 Tema - Sobre o Projeto
 
 O Agrocooperar é um site informativo desenvolvido para o concurso Agrinho 2026, com o objetivo de apresentar a importância do cooperativismo no campo e sua contribuição para o desenvolvimento econômico, social e sustentável da cidade de Cafelândia.
 
